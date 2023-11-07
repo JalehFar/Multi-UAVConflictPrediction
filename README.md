@@ -8,8 +8,9 @@ UAV stands for Unmanned Aerial Vehicle. It can also be called a drone. Rather th
 
 ----
 **Projects**
-1. Classification problem: estimate the total number conflicts between UAVs given the provided features.
-2. Regression problem: predict the minimum Closest Point of Approach (CPA) [1] among all the possible pairs of UAVs
+1. Classification problem: estimate the total number conflicts between UAVs given the provided features. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_1rJYSYoa_Xaxh447f7AC6S5aIxiN9K-)
+2. Regression problem: predict the minimum Closest Point of Approach (CPA) [1] among all the possible pairs of UAVs [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eeO_ivOwCTUNq09XFTI2u0WEGu1H4ub8)
+   
 [1] CPA: An estimated point in which the distance between two objects, of which at least
 one is in motion, will reach its minimum value
 ---
